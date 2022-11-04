@@ -22,7 +22,7 @@
   "dependencies": {
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/error": "^3.0.0",
-    "@semantic-release/github": "git://github.com/DoodleScheduling/semantic-release-github#c25c9bc49f8acbf4fbce175cb9af5bd31c1313ab",
+    "@semantic-release/github": "git://github.com/DoodleScheduling/semantic-release-github#a40fbcaec32fb5e9c1b1bda3212e781837b1b5e4",
     "@semantic-release/npm": "^9.0.0",
     "@semantic-release/release-notes-generator": "^10.0.0",
     "aggregate-error": "^3.0.0",
